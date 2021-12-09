@@ -1,0 +1,2 @@
+mvn archetype:generate -Dgroupld=test.app -Dartifactld=java-app
+-Dartifactld=maven-archetype-quickstart -DarchtypeVersion=1.4 -DinteractiveMode=false
